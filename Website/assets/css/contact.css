@@ -1,0 +1,24 @@
+body{
+    font-family: 'sf pro', sans-serif;
+
+}
+.navbar{
+    background-color: midnightblue;
+}
+
+.jumbotron{
+    background: url(/Users/odukoyaabiodun/Desktop/Dev-Cretorie/Website/img/pink-bg.jpg) no-repeat !important;
+    background-size: cover;
+}
+
+#button{
+    align-items: center;
+    background-color: midnightblue;
+    justify-self: center;
+    color: white;
+    border: none;
+}
+.footer-area{
+    margin-bottom: 0;
+    padding: 0%;
+}
