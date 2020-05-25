@@ -1,0 +1,45 @@
+body{
+    padding-top: 70px;
+}
+.jumbotron{
+    color: midnightblue;
+    background-color: rgb(187, 198, 202);
+}
+.navbar-inverse{
+    background-color: midnightblue;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: whitesmoke;
+}
+.navbar-inverse .navbar-brand{
+    color: whitesmoke;
+}
+#project-area{
+    padding-bottom: 0px 0;
+}
+.text-uppercase{
+    font-weight: bolder;
+    font-weight: 16px;   
+}
+
+
+#button-group button{
+    background: transparent;
+    border: none;
+    font: normal 500 16px/130px;
+    text-transform: uppercase;
+}
+
+#button-group button + button{
+    padding-left: 3rem;
+}
+
+#project-area .grid .our-project > .title h4{
+    font: normal 700 25px/12px;
+}
+
+#project-area .grid .our-project .img a:hover img{
+    filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
+}
+
+
