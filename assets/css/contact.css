@@ -7,7 +7,7 @@ body{
 }
 
 .jumbotron{
-    background: url(/Users/odukoyaabiodun/Desktop/Dev-Cretorie/Website/img/pink-bg.jpg) no-repeat !important;
+    background: url("./img/pink-bg.jpg") no-repeat !important;
     background-size: cover;
 }
 
